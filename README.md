@@ -1,16 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Meu+nome+%C3%A9+Tony;Bem+vindo+ao+meu+GitHub+%5E%5E)](https://git.io/typing-svg)
 
-<!--
-**TonyCleriston/TonyCleriston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  🛠️ Linguagens Que Gosto
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## ⏫ Estou aprendendo
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+<br/>
+
+## Contato
+<a target="_blank" href="https://www.linkedin.com/in/tony-cleriston-6a598715b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+
